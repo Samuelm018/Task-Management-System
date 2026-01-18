@@ -1,14 +1,14 @@
-Task Management System
+# Task Management System
 
 This project is a full-stack task management application with a Flask-based REST API backend and a modern Next.js frontend. The goal is to provide a simple, secure, and well-structured system for managing personal tasks while following clean architecture and best practices.
 
-Overview
+### Overview
 
 The application allows users to register, authenticate, and manage their own tasks. The backend exposes a RESTful API secured with JWT authentication, while the frontend provides a responsive and polished user interface built with Next.js.
 
 Each user’s data is isolated, and access to protected resources is strictly enforced.
 
-Features
+### Features
 
 User registration and login with JWT-based authentication
 
@@ -22,8 +22,8 @@ Modern frontend built with Next.js App Router
 
 Responsive and performance-optimized user interface
 
-Tech Stack
-Backend
+###Tech Stack
+* Backend * 
 
 Python
 
@@ -35,7 +35,7 @@ JWT for authentication
 
 RESTful API architecture
 
-Frontend
+* Frontend *
 
 Next.js 14 (App Router)
 
